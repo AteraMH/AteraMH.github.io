@@ -1139,7 +1139,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "blockTitle": "<h3>Block Title</h3>",
+          "blockTitle": "<h3></h3>",
           "HTMLCode": "<!--Begin Website Toolbox Forum Embed Code-->\n<div id=\"wtEmbedCode\"><script type=\"text/javascript\" id=\"embedded_forum\" src=\"https://aurorionz.discussion.community/js/mb/embed.js\"></script>\n<noscript><a href=\"https://aurorionz.discussion.community/\">Forum</a></noscript></div>\n<!--End Website Toolbox Forum Embed Code-->\n",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
