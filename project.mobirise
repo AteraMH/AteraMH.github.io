@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "#.html",
+    "currentPage": "wia.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
     "versionPublish": "4.9.3"
   },
   "pages": {
-    "#.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -556,7 +556,7 @@
         }
       ]
     },
-    "##.html": {
+    "wia.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "What is Atera?",
