@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 14,
+    "uniqCompNum": 11,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "snow": "",
@@ -1126,10 +1126,10 @@
         },
         {
           "_params": {
-            "blockTitle": "<h3>Block Title</h3>",
-            "HTMLCode": "<!--Begin Website Toolbox Forum Embed Code-->\n<div id=\"wtEmbedCode\"><script type=\"text/javascript\" id=\"embedded_forum\" src=\"https://aurorionz.discussion.community/js/mb/embed.js\"></script>\n<noscript><a href=\"https://aurorionz.discussion.community/\">Forum</a></noscript></div>\n<!--End Website Toolbox Forum Embed Code-->\n",
+            "blockTitle": "<h3></h3>",
+            "HTMLCode": "<!--Begin Website Toolbox Forum Embed Code-->\n<div id=\"wtEmbedCode\"><script type=\"text/javascript\" id=\"embedded_forum\" src=\"https://aurorionz.discussion.community/js/mb/embed.js\"></script>\n<noscript><a href=\"https://aurorionz.discussion.community/\">Forum</a></noscript></div>\n<!--End Website Toolbox Forum Embed Code-->",
             "extEdit": true,
-            "paddingTop": "0",
+            "paddingTop": "40",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1140,14 +1140,14 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "<h3></h3>",
-          "HTMLCode": "<!--Begin Website Toolbox Forum Embed Code-->\n<div id=\"wtEmbedCode\"><script type=\"text/javascript\" id=\"embedded_forum\" src=\"https://aurorionz.discussion.community/js/mb/embed.js\"></script>\n<noscript><a href=\"https://aurorionz.discussion.community/\">Forum</a></noscript></div>\n<!--End Website Toolbox Forum Embed Code-->\n",
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "HTMLCode": "<!--Begin Website Toolbox Forum Embed Code-->\n<div id=\"wtEmbedCode\"><script type=\"text/javascript\" id=\"embedded_forum\" src=\"https://aurorionz.discussion.community/js/mb/embed.js\"></script>\n<noscript><a href=\"https://aurorionz.discussion.community/\">Forum</a></noscript></div>\n<!--End Website Toolbox Forum Embed Code-->",
+          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
           "alias": "htmlblock",
           "_tags": [
             "Extension"
           ],
           "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-d"
+          "_anchor": "htmlblock-block-a"
         }
       ]
     },
