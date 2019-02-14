@@ -1115,7 +1115,7 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "<h3>Block Title</h3>",
-          "HTMLCode": "<h1>HTML Code</h1>",
+          "HTMLCode": "",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
@@ -1126,10 +1126,10 @@
         },
         {
           "_params": {
-            "blockTitle": "<h3>Block Title</h3>",
-            "HTMLCode": "<h1>HTML Code</h1>",
+            "blockTitle": "",
+            "HTMLCode": "<!--Begin Website Toolbox Forum Embed Code--><div id=\"wtEmbedCode\"><script type=\"text/javascript\" id=\"embedded_forum\" src=\"https://aurorionz.discussion.community/js/mb/embed.js\"></script><noscript><a href=\"https://aurorionz.discussion.community/\">Forum</a></noscript></div><!--End Website Toolbox Forum Embed Code-->",
             "extEdit": true,
-            "paddingTop": 20,
+            "paddingTop": "80",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1140,8 +1140,8 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "",
-          "HTMLCode": "<h1>&lt;!--Begin Website Toolbox Forum Embed Code--&gt;<br>&lt;div id=\"wtEmbedCode\"&gt;&lt;script type=\"text/javascript\" id=\"embedded_forum\" src=\"https://aurorionz.discussion.community/js/mb/embed.js\"&gt;&lt;/script&gt;<br>&lt;noscript&gt;&lt;a href=\"https://aurorionz.discussion.community/\"&gt;Forum&lt;/a&gt;&lt;/noscript&gt;&lt;/div&gt;<br>&lt;!--End Website Toolbox Forum Embed Code--&gt;<br></h1>",
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "HTMLCode": "<!--Begin Website Toolbox Forum Embed Code--><div id=\"wtEmbedCode\"><script type=\"text/javascript\" id=\"embedded_forum\" src=\"https://aurorionz.discussion.community/js/mb/embed.js\"></script><noscript><a href=\"https://aurorionz.discussion.community/\">Forum</a></noscript></div><!--End Website Toolbox Forum Embed Code-->",
+          "paddingTop": ".block {padding-bottom:80px; padding-top:80px;}",
           "alias": "htmlblock",
           "_tags": [
             "Extension"
