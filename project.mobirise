@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atera",
-    "currentPage": "home.html",
+    "currentPage": "forums.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1647,8 +1647,8 @@
           "_params": {
             "HTMLCode": "<div id=\"wtEmbedCode\"><script type=\"text/javascript\" id=\"embedded_forum\" src=\"https://aurorionz.discussion.community/js/mb/embed.js\"></script>\n<noscript><a href=\"https://aurorionz.discussion.community/\">Forum</a></noscript></div>\n",
             "hideOnPublish": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
