@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "snow": "",
@@ -1148,6 +1148,31 @@
           ],
           "_name": "htmlblock-block",
           "_anchor": "htmlblock-block-b"
+        },
+        {
+          "_params": {
+            "blockTitle": "<h3>Block Title</h3>",
+            "HTMLCode": "<a href=\"https://aurorionz.discussion.community\">Forum</a>",
+            "extEdit": true,
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "blockTitle": "<h3>Block Title</h3>",
+          "HTMLCode": "<a href=\"https://aurorionz.discussion.community\">Forum</a>",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-c"
         }
       ]
     },
