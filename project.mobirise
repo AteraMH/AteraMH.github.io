@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": "html.html",
+    "name": "Atera",
+    "currentPage": "forums.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,10 @@
     "uniqCompNum": 10,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
-    "snow": ""
+    "snow": "",
+    "favicon": "",
+    "noImageResize": "",
+    "сanonical-url": ""
   },
   "pages": {
     "wia.html": {
@@ -1098,7 +1101,7 @@
         }
       ]
     },
-    "html.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Home",
