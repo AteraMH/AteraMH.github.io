@@ -476,7 +476,7 @@
         },
         {
           "_params": {
-            "HTMLCode": "<div id=\"wtEmbedCode\"><script type=\"text/javascript\" id=\"embedded_forum\" src=\"https://aurorionz.discussion.community/js/mb/embed.js\"></script>\n<noscript><a href=\"https://aurorionz.discussion.community/\">Forum</a></noscript></div>\n",
+            "HTMLCode": "<embed src=\"https://atera.forums.gg/\" style=\"width:2000px; height: 1000px;\">",
             "hideOnPublish": false,
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -489,7 +489,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "<div id=\"wtEmbedCode\"><script type=\"text/javascript\" id=\"embedded_forum\" src=\"https://aurorionz.discussion.community/js/mb/embed.js\"></script>\n<noscript><a href=\"https://aurorionz.discussion.community/\">Forum</a></noscript></div>\n",
+          "HTMLCode": "<embed src=\"https://atera.forums.gg/\" style=\"width:2000px; height: 1000px;\">",
           "alias": "witsec-custom-html",
           "_tags": [
             "Extension"
